@@ -1,4 +1,4 @@
-# facturas
+# Facturas
 
 Repo de sorteador de facturas
 
@@ -10,7 +10,7 @@ Los integrantes seran guardados en un json y tendrán la siguiente estructura:
   "team": "",
   "pers": [
     {
-      "id": numero,
+      "id": 1,
       "name": "Nombre Apellido",
       "last": "dd-mm-aaaa",
       "prob": 1.0
