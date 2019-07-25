@@ -9,7 +9,7 @@ Los integrantes seran guardados en un json y tendrán la siguiente estructura:
 ```json
 {
   "team": "Equipo_que_lleva",
-  "dday": "dia_que_se_llevan",
+  "bdat": "dia_que_se_llevan",
   "persons": [
     {
       "id": "numerador",
