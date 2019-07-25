@@ -1,6 +1,6 @@
 # Facturas
 
-Programa sorteador de facturas, el programa levanta datos de un json que tiene los datos de los [integrantes](#Integrantes). Con esos datos se fija el mes actual, determina cuantos días del mes se debe llevar facturas, con esos datos divide la cantidad de personas por los días que se deben llevar facturas de ese mes.
+Programa sorteador de facturas, el programa levanta datos de un json que tiene los datos de los [integrantes](#Integrantes). Con esos datos se obtiene el `bdat` que es el día del mes que se llevaran las facturas cada semana. El campo `persons` contiene el total de integrantes por equipo o grupo.
 
 ## Integrantes
 
