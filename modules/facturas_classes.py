@@ -11,7 +11,7 @@ class FacturasApp:
         self.c_month = datetime.now().month
         self.c_year = datetime.now().year
 
-    def get_day_number(day):
+    def get_day_number(self, day):
         days_lst = [
             "Lunes",
             "Martes",
